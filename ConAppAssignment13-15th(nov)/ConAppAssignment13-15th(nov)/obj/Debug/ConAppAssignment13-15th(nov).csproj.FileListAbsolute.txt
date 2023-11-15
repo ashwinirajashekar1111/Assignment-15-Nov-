@@ -1,0 +1,7 @@
+C:\Mphasis -B233\AppTwo\Day-8\Assignemt-15th(nov)\ConAppAssignment13-15th(nov)\ConAppAssignment13-15th(nov)\bin\Debug\ConAppAssignment13-15th(nov).exe.config
+C:\Mphasis -B233\AppTwo\Day-8\Assignemt-15th(nov)\ConAppAssignment13-15th(nov)\ConAppAssignment13-15th(nov)\bin\Debug\ConAppAssignment13-15th(nov).exe
+C:\Mphasis -B233\AppTwo\Day-8\Assignemt-15th(nov)\ConAppAssignment13-15th(nov)\ConAppAssignment13-15th(nov)\bin\Debug\ConAppAssignment13-15th(nov).pdb
+C:\Mphasis -B233\AppTwo\Day-8\Assignemt-15th(nov)\ConAppAssignment13-15th(nov)\ConAppAssignment13-15th(nov)\obj\Debug\ConAppAssignment13-15th(nov).csproj.AssemblyReference.cache
+C:\Mphasis -B233\AppTwo\Day-8\Assignemt-15th(nov)\ConAppAssignment13-15th(nov)\ConAppAssignment13-15th(nov)\obj\Debug\ConAppAssignment13-15th(nov).csproj.CoreCompileInputs.cache
+C:\Mphasis -B233\AppTwo\Day-8\Assignemt-15th(nov)\ConAppAssignment13-15th(nov)\ConAppAssignment13-15th(nov)\obj\Debug\ConAppAssignment13-15th(nov).exe
+C:\Mphasis -B233\AppTwo\Day-8\Assignemt-15th(nov)\ConAppAssignment13-15th(nov)\ConAppAssignment13-15th(nov)\obj\Debug\ConAppAssignment13-15th(nov).pdb
